@@ -19,6 +19,7 @@ show_on_rss_feed: false
 ---
 
 Hi this is Sam!
+But who is Sam, really?
 
 ![Getting Started with Linode](/docs/assets/getting-started/getting-started.jpg "Getting Started with Linode")
 
