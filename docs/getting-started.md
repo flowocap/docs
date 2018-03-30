@@ -18,6 +18,8 @@ icon: "book"
 show_on_rss_feed: false
 ---
 
+Hi this is Sam!
+
 ![Getting Started with Linode](/docs/assets/getting-started/getting-started.jpg "Getting Started with Linode")
 
 ## Welcome to Linode!
